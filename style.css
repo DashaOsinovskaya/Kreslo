@@ -1,0 +1,1000 @@
+html {
+    width: 1920px;
+}
+
+.head1 {
+    background-color: #EFEFEF;
+    height: 50px;
+    width: 1920px;
+    color: #333333;
+    font-size: 14px;
+    text-align: center;
+    word-spacing: 30px;
+    line-height: 50px;
+
+}
+
+body {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.logo img {
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+.logo span {
+    font-size: 36px;
+    font-weight: 700;
+    color: #66C05D;
+    line-height: 40px;
+    letter-spacing: 0.1em;
+    position: absolute;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.logo {
+    padding-left: 155px;
+    padding-top: 20px;
+}
+
+.head2 {
+    display: flex;
+    height: 120px;
+}
+
+.head2 button {
+    border: 2px solid #66C05D;
+    background-color: #ffffff;
+    border-radius: 40px;
+    width: 170px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+.st {
+    margin-top: 50px;
+    margin-left: 710px;
+    width: 127px;
+    font-size: 16px;
+}
+
+.head3 {
+    border-top: 1px solid #EFEFEF;
+    height: 80px;
+    font-size: 16px;
+    word-spacing: 40px;
+    text-align: center;
+    line-height: 80px;
+}
+
+main {
+    background-color: #EFEFEF;
+    padding-bottom: 132px;
+}
+
+.oblojka {
+    position: relative;
+    color: #ffffff;
+    text-align: left;
+}
+
+.maintext {
+    margin-top: 40px;
+    position: absolute;
+    left: 155px;
+    top: 192px;
+    font-size: 46px;
+    font-weight: 700;
+    width: 308px;
+}
+
+.suptext {
+    margin-top: 40px;
+    position: absolute;
+    left: 155px;
+    top: 286px;
+    font-size: 14px;
+    width: 308px;
+}
+
+.oblojka button {
+    border: 2px solid #ffffff;
+    background-color: #66C05D;
+    border-radius: 40px;
+    color: #ffffff;
+    width: 170px;
+    height: 40px;
+    position: absolute;
+    left: 155px;
+    top: 411px;
+    font-size: 14px;
+}
+
+.spec {
+    padding-top: 80px;
+    padding-left: 155px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.speccar {
+    display: flex;
+}
+
+.speccar img {
+    padding-left: 556px;
+    padding-top: 70px;
+}
+
+.cards {
+    width: 1110px;
+    padding-left: 390px;
+    padding-top: 38px;
+    display: flex;
+}
+
+.card {
+    background-color: #ffffff;
+    width: 255px;
+    height: 363px;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card img {
+    width: 125px;
+    height: 166px;
+    padding-left: 65px;
+    padding-top: 25px;
+}
+
+.norm {
+    padding-top: 20px;
+    width: 195px;
+    color: #333333;
+    padding-left: 30px;
+    font-size: 14px;
+}
+
+.cena {
+    padding-top: 20px;
+    width: 80px;
+    padding-left: 87px;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.card button {
+    border: 2px solid #66C05D;
+    background-color: #66C05D;
+    border-radius: 30px;
+    color: #ffffff;
+    width: 130px;
+    height: 35px;
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    margin-left: 62px;
+    margin-top: 20px;
+}
+
+.stock {
+    padding-left: 390px;
+    padding-top: 100px;
+    display: flex;
+    color: #ffffff;
+}
+
+.mail {
+    width: 525px;
+    height: 212px;
+    background-color: #66C05D;
+    margin-left: 15px;
+    margin-right: 15px;
+    position: relative;
+}
+
+.mail img {
+    position: absolute;
+    left: 355px;
+    top: 53px;
+}
+
+.market {
+    width: 525px;
+    height: 212px;
+    background-color: #66C05D;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.attention {
+    font-size: 18px;
+    font-weight: 700;
+    padding-left: 40px;
+    padding-top: 35px;
+}
+
+.lowatt {
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 40px;
+    padding-top: 25px;
+    width: 231px;
+}
+
+.mail span {
+    padding-left: 40px;
+
+}
+
+input {
+    width: 225px;
+    height: 35px;
+    border-radius: 30px;
+    border-width: 0px;
+    padding-left: 25px;
+    margin-top: 25px;
+}
+
+.market button {
+    width: 170px;
+    height: 35px;
+    margin-left: 40px;
+    margin-top: 25px;
+    color: #ffffff;
+    background-color: #66C05D;
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+.social {
+    padding-left: 155px;
+    height: 121px;
+    line-height: 121px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.social div {
+    border: 2px solid #66C05D;
+    border-radius: 50px;
+    width: 45px;
+    height: 45px;
+    margin-right: 20px;
+    line-height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 37px;
+}
+
+.address {
+    font-size: 14px;
+    max-width: 227px;
+    position: absolute;
+    left: 846.5px;
+}
+
+.social .st {
+    margin-top: 0px;
+    position: absolute;
+    right: 640px;
+    margin-left: 0px;
+}
+
+.social button {
+    border: 2px solid #66C05D;
+    background-color: #ffffff;
+    border-radius: 40px;
+    width: 170px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 14px;
+    position: absolute;
+    right: 430px;
+}
+
+.supfoot {
+    background-color: #EFEFEF;
+    color: #828282;
+    padding-left: 155px;
+    height: 64px;
+    line-height: 64px;
+    font-size: 12px;
+    display: flex;
+}
+
+.supfoot div {
+    text-align: right;
+    padding-left: 335px;
+}
+
+@media (min-width: 360px) {
+    html {
+        width: 360px;
+    }
+
+    .head1 {
+        width: 360px;
+        font-size: 6px;
+        height: 20px;
+        line-height: 20px;
+    }
+
+    .logo img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .logo span {
+        font-size: 16px;
+        line-height: 0px;
+        padding-left: 5px;
+    }
+
+    .logo {
+        padding-left: 15px;
+    }
+
+    .st {
+        margin-top: 35px;
+        margin-left: 150px;
+        width: 70px;
+        font-size: 8px;
+    }
+
+    .head2 button {
+        border-radius: 40px;
+        width: 80px;
+        height: 25px;
+        margin-top: 30px;
+        margin-left: 5px;
+        font-size: 8px;
+        border-width: 1px;
+    }
+
+    .head2 {
+        height: 70px;
+    }
+
+    .head3 {
+        height: 40px;
+        font-size: 8px;
+        word-spacing: 15px;
+        line-height: 40px;
+    }
+
+    .oblojka img {
+        width: 360px;
+    }
+
+    .maintext {
+        position: absolute;
+        left: 15px;
+        top: 0px;
+        font-size: 16px;
+        margin-top: 25px;
+    }
+
+    .suptext {
+        position: absolute;
+        left: 15px;
+        top: 10px;
+        font-size: 7px;
+        width: 120px;
+    }
+
+    .oblojka button {
+        position: absolute;
+        left: 15px;
+        top: 85px;
+        font-size: 7px;
+        width: 80px;
+        height: 18px;
+        border-width: 1px;
+    }
+
+    .spec {
+        padding-top: 20px;
+        padding-left: 15px;
+        font-size: 8px;
+    }
+
+    .speccar img {
+        padding-left: 136px;
+        padding-top: 10px;
+        width: 94px;
+    }
+
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 0;
+        width: 360px;
+        margin-left: 0;
+        padding-top: 0;
+        margin-top: 15px;
+    }
+
+    .card {
+        margin-bottom: 15px;
+        margin-top: 15px;
+        width: 127.5px;
+        height: 181.5px;
+    }
+
+    .card img {
+        height: 83px;
+        width: 62.5px;
+        padding-left: 35px;
+        padding-top: 15px;
+    }
+
+    .norm {
+        padding-left: 20px;
+        padding-top: 15px;
+        font-size: 8px;
+        width: 100px;
+    }
+
+    .cena {
+        padding-top: 10px;
+        width: 40px;
+        padding-left: 43px;
+        font-size: 10px;
+    }
+
+    .card button {
+        border-width: 1px;
+        width: 75px;
+        height: 15px;
+        font-size: 9px;
+        letter-spacing: 0.025em;
+        margin-left: 25px;
+        margin-top: 5px;
+    }
+
+    .stock {
+        padding-left: 15px;
+        padding-top: 25px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mail {
+        padding: 0;
+        margin-left: 0;
+        margin-bottom: 20px;
+        width: 330px;
+        height: 110px;
+    }
+
+    .market {
+        padding: 0;
+        margin-left: 0;
+        width: 330px;
+        height: 110px;
+    }
+
+    .attention {
+        font-size: 10px;
+        font-weight: 700;
+        padding-left: 20px;
+        padding-top: 15px;
+    }
+
+    .lowatt {
+        font-size: 8px;
+        font-weight: 400;
+        padding-left: 20px;
+        padding-top: 15px;
+        width: 150px;
+    }
+
+    .mail span {
+        padding-left: 20px;
+    }
+
+    input {
+        width: 125px;
+        height: 20px;
+        border-radius: 30px;
+        border-width: 0px;
+        padding-left: 15px;
+        margin-top: 15px;
+        font-size: 8px;
+    }
+
+    .mail img {
+        position: absolute;
+        left: 215px;
+        top: 26px;
+        width: 70px;
+        height: 53px;
+    }
+
+    .market button {
+        width: 125px;
+        height: 20px;
+        margin-left: 15px;
+        margin-top: 15px;
+        border-width: 1px;
+        border-radius: 30px;
+        font-size: 8px;
+    }
+
+    .social {
+        height: 170px;
+        padding-left: 15px;
+    }
+
+    main {
+        padding-bottom: 20px;
+    }
+
+    .address {
+        font-size: 10px;
+        top: 50px;
+        position: absolute;
+        left: 15px;
+    }
+
+    .social .st {
+        margin-top: 80px;
+        position: absolute;
+        left: 15px;
+        font-size: 8px;
+        width: 100px;
+    }
+
+    .social button {
+        margin-top: 130px;
+        margin-left: 20px;
+        font-size: 8px;
+        position: absolute;
+        left: 180px;
+        width: 80px;
+        height: 25px;
+    }
+
+    .supfoot {
+        padding-left: 15px;
+        height: 32px;
+        font-size: 6px;
+        line-height: 16px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .supfoot div {
+        padding: 0;
+        text-align: left;
+    }
+}
+
+@media (min-width: 768px) {
+    html {
+        width: 768px;
+    }
+
+    .head1 {
+        width: 768px;
+        font-size: 8px;
+        height: 25px;
+        line-height: 25px;
+    }
+
+    .logo img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .logo span {
+        font-size: 18px;
+        line-height: 0px;
+    }
+
+    .logo {
+        padding-left: 75px;
+    }
+
+    .st {
+        margin-top: 35px;
+        margin-left: 395px;
+        width: 103px;
+        font-size: 10px;
+    }
+
+    .head2 button {
+        border-radius: 40px;
+        width: 100px;
+        height: 30px;
+        margin-top: 30px;
+        margin-left: 15px;
+        font-size: 10px;
+    }
+
+    .head2 {
+        height: 70px;
+    }
+
+    .head3 {
+        height: 60px;
+        font-size: 12px;
+        word-spacing: 30px;
+        text-align: center;
+        line-height: 60px;
+    }
+
+    .oblojka img {
+        width: 768px;
+    }
+
+    .maintext {
+        position: absolute;
+        left: 75px;
+        top: 22px;
+        font-size: 22px;
+    }
+
+    .suptext {
+        position: absolute;
+        left: 75px;
+        top: 66px;
+        font-size: 10px;
+        width: 220px;
+    }
+
+    .oblojka button {
+        position: absolute;
+        left: 75px;
+        top: 161px;
+        font-size: 12px;
+        width: 110px;
+        height: 30px;
+    }
+
+    .spec {
+        padding-top: 40px;
+        padding-left: 75px;
+        font-size: 16px;
+    }
+
+    .speccar img {
+        padding-left: 256px;
+        padding-top: 20px;
+    }
+
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 0;
+        width: 768px;
+        margin-left: 130px;
+        padding-top: 0;
+        margin-top: 15px;
+    }
+
+    .card {
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+
+    .norm {
+        padding-left: 45px;
+    }
+
+    .stock {
+        padding-left: 145px;
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mail {
+        padding: 0;
+        margin-left: 0;
+        margin-bottom: 30px;
+    }
+
+    .market {
+        padding: 0;
+        margin-left: 0;
+    }
+
+    .social {
+        display: flex;
+        flex-wrap: wrap;
+        height: 200px;
+        padding-left: 75px;
+        flex-direction: row;
+    }
+
+    .address {
+        font-size: 14px;
+        position: absolute;
+        left: 446.5px;
+    }
+
+    .social .st {
+        margin-top: 80px;
+        position: absolute;
+        left: 200px;
+        font-size: 14px;
+        width: 120px;
+    }
+
+    .social button {
+        margin-top: 120px;
+        margin-left: 40px;
+        font-size: 14px;
+        position: absolute;
+        left: 350px;
+    }
+
+    .supfoot {
+        padding-left: 75px;
+        height: 128px;
+        line-height: 64px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .supfoot div {
+        padding: 0;
+        text-align: left;
+    }
+}
+
+@media (min-width: 1024px) {
+    html {
+        width: 1024px;
+    }
+
+    .head1 {
+        width: 1024px;
+        font-size: 10px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .oblojka img {
+        width: 100%;
+        height: 100%;
+        display: block;
+    }
+
+    .logo {
+        padding-left: 85px;
+    }
+
+    .st {
+        margin-left: 500px;
+    }
+
+    .maintext {
+        position: absolute;
+        left: 85px;
+        top: 72px;
+        font-size: 32px;
+    }
+
+    .suptext {
+        position: absolute;
+        left: 85px;
+        top: 126px;
+        font-size: 12px;
+        width: 308px;
+    }
+
+    .oblojka button {
+        position: absolute;
+        left: 85px;
+        top: 231px;
+    }
+
+    .cards {
+        padding-left: 70px;
+    }
+
+    .spec {
+        padding-top: 80px;
+        padding-left: 85px;
+        font-size: 20px;
+        width: 320px;
+    }
+
+    .speccar img {
+        padding-left: 0;
+        margin-left: 375px;
+    }
+
+    .card {
+        width: 200px;
+        height: 308px;
+    }
+
+    .card img {
+        width: 70px;
+        height: 111px;
+    }
+
+    .cena {
+        padding-left: 67px;
+        font-size: 18px;
+    }
+
+    .card button {
+        width: 120px;
+        height: 30px;
+        font-size: 12px;
+        margin-left: 42px;
+        margin-top: 20px;
+    }
+
+
+    .stock {
+        margin-left: 70px;
+        padding-top: 80px;
+        padding-left: 0;
+    }
+
+    .market {
+        width: 430px;
+    }
+
+    .mail {
+        width: 430px;
+    }
+
+    .mail img {
+        width: 105px;
+        position: absolute;
+        left: 300px;
+        top: 53px;
+    }
+
+    .attention {
+        font-size: 16px;
+        margin-left: 35px;
+        padding-left: 0;
+    }
+
+    .lowatt {
+        font-size: 12px;
+        margin-left: 35px;
+        padding-left: 0;
+    }
+
+    input {
+        width: 200px;
+        height: 30px;
+        border-radius: 30px;
+        border-width: 0px;
+        margin-top: 25px;
+        padding-left: 25px;
+    }
+
+    .social {
+        padding-left: 85px;
+        height: 100px;
+        line-height: 100px;
+    }
+
+    .social div {
+        margin-top: 27px;
+        margin-right: 15px;
+    }
+
+    .address {
+        font-size: 12px;
+        max-width: 207px;
+        position: absolute;
+        left: 350px;
+    }
+
+    .social .st {
+        position: absolute;
+        left: 680px;
+    }
+
+    .social button {
+        border-radius: 35px;
+        width: 150px;
+        height: 35px;
+        margin-top: 30px;
+        margin-left: 0;
+        font-size: 12px;
+        position: absolute;
+        left: 820px;
+    }
+
+    .supfoot {
+        padding-left: 85px;
+        height: 48px;
+        line-height: 48px;
+        font-size: 10px;
+        display: flex;
+    }
+
+    .supfoot div {
+        padding-left: 250px;
+    }
+
+}
+
+@media (min-width: 1366px) and (max-width: 1919px) {
+    html {
+        width: 1366px;
+    }
+
+    .head1 {
+        width: 1366px;
+    }
+
+    .oblojka img {
+        width: 100%;
+        height: 100%;
+        display: block;
+    }
+
+    .maintext {
+        position: absolute;
+        left: 155px;
+        top: 112px;
+        font-size: 44px;
+    }
+
+    .suptext {
+        position: absolute;
+        left: 155px;
+        top: 206px;
+        font-size: 14px;
+        width: 308px;
+    }
+
+    .oblojka button {
+        position: absolute;
+        left: 155px;
+        top: 331px;
+    }
+
+    .cards {
+        padding-left: 155px;
+    }
+
+    .stock {
+        padding-left: 155px;
+    }
+
+    .address {
+        left: 446.5px;
+    }
+
+    .social button {
+        margin-left: 0;
+        position: absolute;
+        left: 1070px;
+    }
+
+    .social .st {
+        position: absolute;
+        left: 880px;
+    }
+
+    .spec {
+        padding-left: 165px;
+    }
+}
